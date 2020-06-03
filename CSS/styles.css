@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  }
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  color: #006080;
+  text-align: center;
+}
+
+
+
+  hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+  width: 4%;
+}
